@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexis Martinez
 - 👀 I’m interested in VideoGames, Apps and Learning Program.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate on enterprise of videogames.
 - 📫 How to reach me alexismtz200326@gmail.com
 
 <!---
