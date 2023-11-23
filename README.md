@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Alexis Martinez
-- 👀 I’m interested in VideoGames, Apps and Learning Program.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on enterprise of videogames.
-- 📫 How to reach me alexismtz200326@gmail.com
+- 👋 Hola, mi nombre es @Alexis Martinez
+- 👀 Me gustan los videojuegos, la música y el ejercicio.
 
 <!---
 AlexRGB2/AlexRGB2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
