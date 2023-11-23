@@ -1,4 +1,4 @@
-- 👋 Hola, mi nombre es @Alexis Martinez
+- 👋 Hola, mi nombre es Alexis Martinez
 - 👀 Me gustan los videojuegos, la música y el ejercicio.
 
 <!---
