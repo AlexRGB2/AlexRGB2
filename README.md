@@ -1,7 +1,8 @@
-- 👋 Hola, mi nombre es Alexis Martinez
-- 👀 Me gustan los videojuegos, la música y el ejercicio.
+# 👋 Hola, mi nombre es Alexis Martinez
 
-<!---
-AlexRGB2/AlexRGB2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/AlexRGB2/github-readme-stats" style="margin-bottom: 1em;">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=AlexRGB2&theme=dark&locale=es&rank_icon=github" />
+</a>
+<a href="https://github.com/AlexRGB2/convoychat">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexRGB2&layout=compact&langs_count=8&card_width=320&theme=dark&locale=es" />
+</a>
